@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="https://github.com/Goytai/Star-Calculator/blob/master/LICENSE">
-        <img src="https://img.shields.io/github/license/goytai/Star-Calculator?style=for-the-badge" alt="License MIT" />
+        <img src="https://img.shields.io/github/license/Goytai/Star-Calculator?style=for-the-badge" alt="License MIT" />
     </a>
 </p>
 
@@ -29,8 +29,8 @@ The project was developed with:
 The live preview is available at: 
 
 <p align="center">
-    <a href="https://nlw5.vercel.app/">
-        <img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=6f48c9&up_message=online&url=https%3A%2F%2Fnlw5.vercel.app%2F" alt="Website Status" />
+    <a href="https://star-calculator.vercel.app/">
+        <img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=6f48c9&up_message=online&url=https%3A%2F%2Fstar-calculator.vercel.app%2F" alt="Website Status" />
     </a>
 </p>
 
